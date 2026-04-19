@@ -72,9 +72,6 @@ HW5/
 ├── README.md                                      # This file
 ├── requirements.txt                               # Python dependencies
 ├── DNSC-6330-Responsible-ML-homework-05.ipynb    # Main homework notebook
-├── Lecture_05_security.ipynb                     # Original lecture lab (reference)
-├── DNSC_6330_Lecture-05.pdf                      # Lecture slides and assignment spec
-└── homework_checklist.md                         # Self-audit checklist
 ```
 
 ## Data Source
